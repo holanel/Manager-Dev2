@@ -12,7 +12,7 @@ namespace Vyvojovy_pomocnik.Classes
     class DB
     {
 
-        protected readonly static string Server_DB1 = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"C:\\Users\\janho\\Desktop\\Manager Dev\\Vyvojovy_pomocnik\\Manager_dev.mdf\";Integrated Security=True";
+        protected readonly static string Server_DB1 = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"|DataDirectory|Manager_dev.mdf\";Integrated Security=True";
 
         protected readonly static string Server_DB = "Vyvojovy_pomocnik";
         
