@@ -5,6 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Vyvojovy_pomocnik.Classes;
+using System;
+using System.Data.SqlClient;
 
 namespace Vyvojovy_pomocnik
 {
